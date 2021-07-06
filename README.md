@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alcsilva;
-- 👀 I’m interested in machine learning, Arduino, neural-network, Java-Script;
-- 🌱 I’m currently learning HTML, CSS, Java-Script;
+- 👀 I’m interested in machine learning, Python, neural-network, Java-Script;
+- 🌱 I’m currently learning Java-Script, ReactJS, Bootstrap, JQuery, PostgreSQL;
 - 💞️ I’m looking to collaborate on software and web development;
 - 📫 How to reach me: alexandrelcsilva96@gmail.com or https://www.linkedin.com/in/alexandre-luiz-costa-da-silva-4a394717b/
 
